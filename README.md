@@ -15,7 +15,7 @@ This is part of a group project to create a book swapping app. This server is de
 Follow these steps in your terminal:
 
 1. Clone the GitHub repo
-   - `git clone https://github.com/AydaFox/ayda-news-server.git`
+   - `git clone https://github.com/AydaFox/book-swap-be.git`
 2. Install all dependencies required for the project to run
    - `npm install`
 3. Create 2 files in the root directory for the environment variables
