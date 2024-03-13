@@ -27,7 +27,6 @@ Follow these steps in your terminal:
 5. Install MongoDB Community Edition to setup a local database
    - go to the [MongoDB docs](https://www.mongodb.com/docs/manual/administration/install-community/) and follow the instructions for your OS to get started
 6. Create and seed a local database
-   - `npm run setup-dbs`
    - `npm run seed`
 
 Please ensure you have installed:
